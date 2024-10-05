@@ -1,5 +1,4 @@
 # Sequence-Matcher
-Re-implementation of SequenceMatcher for Java.
 
 This is a partial reimplementation of the Python difflib.SequenceMatcher class:
 - https://github.com/python/cpython/blob/3.10/Lib/difflib.py
